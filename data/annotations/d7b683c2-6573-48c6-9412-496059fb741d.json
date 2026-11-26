@@ -1,5 +1,1369 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 13,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pode chegar pra nascer capítulo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "d849cab0-2d5f-45fe-bee4-a441a2a0ad9a"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vou comer por dois, a calha."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "6b106250-b172-4ad9-ad7c-7c6e9f1a34d1"
+    },
+    {
+      "start_time": 18,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vou sorrir a terra da Caxi Manu."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "1070d64c-f2f0-4847-810c-5f56e02c76b5"
+    },
+    {
+      "start_time": 34,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Em mão tem militares de óbio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "22db0d65-4562-466b-951c-247966dc6201"
+    },
+    {
+      "start_time": 50,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brasil."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "9635c38d-a602-4113-8649-3b00a09b1e51"
+    },
+    {
+      "start_time": 52,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "80 millones de habitantes se reparten un territorio de 8.500.000 kilómetros cuadrados, pero no muy equitativamente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "d3a40ca1-ff11-4592-a326-33fcd3d7ca12"
+    },
+    {
+      "start_time": 62,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El 80% de las tierras cultivables pertenecen al 2% de los brasileros."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "8c71d465-7137-4888-8565-c466a4af3f1b"
+    },
+    {
+      "start_time": 69,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Siendo el segundo país de América y con la capital más moderna del mundo, Brasil tiene una faja de olvido y de muerte a la que se conoce por Nordeste,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "e7606a6d-0a27-4d40-a764-a07d2276c65c"
+    },
+    {
+      "start_time": 79,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "polígono de secas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "6abc15fa-0d26-417a-8fbc-bb92e29a57a1"
+    },
+    {
+      "start_time": 83,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí, donde la media de vida humana alcanza los 27 años, el latifundio y la seca obliga el éxodo de los campesinos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "ab68fcbe-6c29-46a6-a23a-a0504e058895"
+    },
+    {
+      "start_time": 93,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí, donde se espera continuamente una lluvia que no llega."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "5d55a109-fe9c-4c7a-a0c5-0aebdee48f74"
+    },
+    {
+      "start_time": 99,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí, donde fecundar la tierra es entregar la vida."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "9214c64d-38a5-4445-b97b-47e97dff149b"
+    },
+    {
+      "start_time": 104,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí, donde la esperanza de todos es que no llegue la sequía."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "52b20f6b-376d-43d3-a48f-b2c271b7ca6d"
+    },
+    {
+      "start_time": 111,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pero inexorablemente llega."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "aecdd64c-ad20-4c28-b3bb-f84de3f240f3"
+    },
+    {
+      "start_time": 113,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Juan Amaro, 35 años."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "cae4640a-8e01-4b50-ab88-e21454ae5d41"
+    },
+    {
+      "start_time": 131,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hace seis años encontró este rancho abandonado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "4f25ea48-108c-4617-87e4-bbbfc83f2c3b"
+    },
+    {
+      "start_time": 136,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Llegó con su mujer y 11 hijos de los que solo sobreviven cuatro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "31a83869-383c-48d5-b2dc-56088efc6be9"
+    },
+    {
+      "start_time": 154,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En este lugar ya soportó varias sequías."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "04f8aecb-07c0-4471-9a46-b3fb9868b24f"
+    },
+    {
+      "start_time": 159,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero ésta parece ser la más dura."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "6fa5f2f5-eec3-4b79-9ef2-0517024282aa"
+    },
+    {
+      "start_time": 164,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Seis meses sin lluvia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "b4100be0-40fb-4015-8944-d32504dc7753"
+    },
+    {
+      "start_time": 342,
+      "end_time": 345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cadê água?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "9fc33d07-344f-4f3f-a0e6-70a3f74405c6"
+    },
+    {
+      "start_time": 345,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tem água, não."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "e161ae23-e9b2-463d-8b13-c97a74461523"
+    },
+    {
+      "start_time": 346,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Casimba está seca."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        }
+      ],
+      "uuid": "e55039ac-fd8f-4ca9-ac5e-3e95ccf3432a"
+    },
+    {
+      "start_time": 348,
+      "end_time": 365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Torrado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "983b7bf5-99ce-4177-a584-43adf7edbc69"
+    },
+    {
+      "start_time": 365,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mãe, em Tudacatinga tem criatório morto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "01ebdcf7-7d7f-4873-873e-2435cea52899"
+    },
+    {
+      "start_time": 370,
+      "end_time": 372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O povo se retira."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "5f1b3221-bc46-42c1-a8fe-5446b3285643"
+    },
+    {
+      "start_time": 374,
+      "end_time": 376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Abandona a terra, Mãe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "2a15944c-6b34-4dd8-8edb-e67bf5705084"
+    },
+    {
+      "start_time": 417,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Senta aí, menino."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "7ceb0e46-e94c-4f57-bb9c-40b803f614b6"
+    },
+    {
+      "start_time": 519,
+      "end_time": 521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vamos, todo mundo de pé para viagem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "4a93c10e-d383-400f-991e-572d6b45a541"
+    },
+    {
+      "start_time": 527,
+      "end_time": 528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vamos, gente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "69b20c24-9451-4a9f-b5ba-41d1cdd3f153"
+    },
+    {
+      "start_time": 528,
+      "end_time": 530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vamos que temos que viajar muito."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "893d31f9-dbc0-41bc-aa7f-ff857cf5dac3"
+    },
+    {
+      "start_time": 532,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vamos, menino."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "a3e002a7-e5b8-4c20-a082-dd9bd8eea3ec"
+    },
+    {
+      "start_time": 533,
+      "end_time": 534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sai de aí, menino."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "ea52869c-a468-4a55-bad6-ba21edacf26f"
+    },
+    {
+      "start_time": 537,
+      "end_time": 549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vamos que temos que viajar, já que o sol já está levantando."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "5f45ec25-c91b-4f27-8318-2ac42eca44bf"
+    },
+    {
+      "start_time": 552,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vamos, gente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "87258942-3633-4d39-82af-723c8ee1defc"
+    },
+    {
+      "start_time": 635,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "23 millones en un polígono."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "786f549a-93bc-4c68-aa5c-830229bfae2d"
+    },
+    {
+      "start_time": 638,
+      "end_time": 641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nordeste descalzo para vergüenza de América."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "712b216e-3b87-47fe-853e-c36d50c7ad53"
+    },
+    {
+      "start_time": 642,
+      "end_time": 652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Generador de ejércitos de retirantes que llegan diariamente a estas ferias donde nadie compra ni vende, porque nada hay para comprar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "b88fc84a-4dc3-43c5-9911-63b682827944"
+    },
+    {
+      "start_time": 654,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ni para vender."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "701660b1-5cc6-4d94-b55a-2126725c57bc"
+    },
+    {
+      "start_time": 657,
+      "end_time": 664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Donde cada sombrero es un campesino muerto y cada campesino un catálogo de enfermedades."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "97815e8e-58a2-4839-9270-317aeeb5862a"
+    },
+    {
+      "start_time": 665,
+      "end_time": 669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Donde cada 42 segundos muere una criatura."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "87b7b521-4cd2-47f7-9b51-709c7f5b0691"
+    },
+    {
+      "start_time": 670,
+      "end_time": 672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es decir, 85 por hora y 2040 por día."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "6ee26ffd-f848-40d0-b339-31b0e972e4ab"
+    },
+    {
+      "start_time": 683,
+      "end_time": 685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moço, o senhor é daqui."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "7c023b73-6048-443f-8f62-8b776cc23f31"
+    },
+    {
+      "start_time": 685,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por favor, Moço."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "1d4e0d1f-f672-4b0d-aaf7-f3c49394601e"
+    },
+    {
+      "start_time": 687,
+      "end_time": 698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por favor, Moço, me diz onde que tem água."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "eed85e02-b122-4ea8-a708-d0ed1c141823"
+    },
+    {
+      "start_time": 698,
+      "end_time": 700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El camino se alarga cuando la tierra quema."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "751a9e31-c5f2-4093-a03d-109f61f626b6"
+    },
+    {
+      "start_time": 702,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y este Juan sin tierra continuará buscando un lugar en el mundo para conservar los cuatro hijos de los once que tenía."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ],
+      "uuid": "8257b364-0038-4e2b-9884-3cc48d1216cb"
+    }
+  ],
   "set": "Default",
   "event_id": "3bb97080-9aa0-45df-be4e-a35c3b131af1",
   "source_id": "e01bc465-e7f9-4387-8331-37d2156d6209"
