@@ -1,21 +1,29 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_static_site": false,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "include_slug_in_base": true
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "yesicaschwertner-code",
+    "is_private": false,
+    "title": "La tierra quema",
+    "description": "El material describe las condiciones de pobreza y desigualdad social en el Nordeste de Brasil, agravadas por las sequías y la concentración de la propiedad de la tierra. A través de testimonios y relatos de campesinos, aborda las dificultades de subsistencia y los desplazamientos forzados de la población rural en busca de mejores condiciones de vida.",
+    "language": "pt",
+    "slug": "Latierraquemagleyzer",
+    "creator": "yesicaschwertner-code",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-11-26T23:33:40.244Z",
+    "updated_at": "2026-11-26T23:33:40.244Z"
   }
 }
