@@ -6,7 +6,13 @@
     "publish_iso_date": "",
     "include_slug_in_base": true
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "yesicaschwertner-code",
+      "avatar_url": "https://avatars.githubusercontent.com/u/358925617?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "yesicaschwertner-code",
     "is_private": false,
@@ -24,6 +30,27 @@
       "tags": []
     },
     "created_at": "2026-11-26T23:33:40.244Z",
-    "updated_at": "2026-11-26T23:33:40.244Z"
-  }
+    "updated_at": "2026-11-26T23:33:40.244Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "886e64c4-7420-4b73-aea9-0115c5ac3068": {
+      "content": [],
+      "created_at": "2026-11-26T23:33:40.284Z",
+      "created_by": "yesicaschwertner-code",
+      "title": "La tierra quema",
+      "updated_at": "2026-11-26T23:33:40.284Z",
+      "updated_by": "yesicaschwertner-code",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "886e64c4-7420-4b73-aea9-0115c5ac3068"
+  ]
 }
