@@ -1,1 +1,86 @@
-{"publish":{"publish_pages_app":true,"publish_static_site":false,"publish_sha":"","publish_iso_date":"","include_slug_in_base":true},"users":[{"login_name":"yesicaschwertner-code","avatar_url":"https://avatars.githubusercontent.com/u/358925617?v=4","admin":true}],"project":{"github_org":"yesicaschwertner-code","is_private":false,"title":"La tierra quema","description":"El material describe las condiciones de pobreza y desigualdad social en el Nordeste de Brasil, agravadas por las sequías y la concentración de la propiedad de la tierra. A través de testimonios y relatos de campesinos, aborda las dificultades de subsistencia y los desplazamientos forzados de la población rural en busca de mejores condiciones de vida.","language":"pt","slug":"Latierraquemagleyzer","creator":"yesicaschwertner-code","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"_uncategorized_","tag":"Desigualdad social"},{"category":"_uncategorized_","tag":"Desertificacion"},{"category":"_uncategorized_","tag":"Campesinado"},{"category":"_uncategorized_","tag":"Desesperanza"},{"category":"_uncategorized_","tag":"Ferias vacias"},{"category":"_uncategorized_","tag":"Nordeste brasileno"}]},"created_at":"2026-11-26T23:33:40.244Z","updated_at":"2026-11-27T00:08:21.622Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"886e64c4-7420-4b73-aea9-0115c5ac3068":{"content":[],"created_at":"2026-11-26T23:33:40.284Z","created_by":"yesicaschwertner-code","title":"La tierra quema","updated_at":"2026-11-26T23:33:40.284Z","updated_by":"yesicaschwertner-code","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["886e64c4-7420-4b73-aea9-0115c5ac3068"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_static_site": false,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "include_slug_in_base": true
+  },
+  "users": [
+    {
+      "login_name": "yesicaschwertner-code",
+      "avatar_url": "https://avatars.githubusercontent.com/u/358925617?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "yesicaschwertner-code",
+    "is_private": false,
+    "title": "La tierra quema",
+    "description": "El material describe las condiciones de pobreza y desigualdad social en el Nordeste de Brasil, agravadas por las sequías y la concentración de la propiedad de la tierra. A través de testimonios y relatos de campesinos, aborda las dificultades de subsistencia y los desplazamientos forzados de la población rural en busca de mejores condiciones de vida.",
+    "language": "pt",
+    "slug": "Latierraquemagleyzer",
+    "creator": "yesicaschwertner-code",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desigualdad social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desertificacion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Campesinado"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desesperanza"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ferias vacias"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nordeste brasileno"
+        }
+      ]
+    },
+    "created_at": "2026-11-26T23:33:40.244Z",
+    "updated_at": "2026-11-27T00:09:06.426Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "886e64c4-7420-4b73-aea9-0115c5ac3068": {
+      "content": [],
+      "created_at": "2026-11-26T23:33:40.284Z",
+      "created_by": "yesicaschwertner-code",
+      "title": "La tierra quema",
+      "updated_at": "2026-11-26T23:33:40.284Z",
+      "updated_by": "yesicaschwertner-code",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "886e64c4-7420-4b73-aea9-0115c5ac3068"
+  ]
+}
