@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "e01bc465-e7f9-4387-8331-37d2156d6209": {
-      "label": "La tierra quema de Raimundo Gleyzer",
+      "label": "La tierra quema de Raymundo Gleyzer",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=xdp6l8Rl4V0",
@@ -23,13 +23,13 @@
     }
   ],
   "citation": "",
-  "label": "La tierra quema de Raimundo Gleyzer",
+  "label": "La tierra quema de Raymundo Gleyzer",
   "av_file_order": [
     "e01bc465-e7f9-4387-8331-37d2156d6209"
   ],
   "rights_statement": "https://rightsstatements.org/vocab/NoC-NC/1.0/",
   "created_at": "2026-11-26T23:39:58.584Z",
   "created_by": "yesicaschwertner-code",
-  "updated_at": "2026-11-27T00:16:14.372Z",
+  "updated_at": "2026-11-27T00:20:15.445Z",
   "updated_by": "yesicaschwertner-code"
 }
